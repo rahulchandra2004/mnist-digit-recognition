@@ -88,7 +88,6 @@ mnist-digit-recognition/
 │── digit_recognition_app.ipynb    # Interactive app (canvas + webcam)
 │── requirements.txt               # Dependencies
 │── README.md                      # Project documentation
-│── images/                        # Screenshots (confusion matrix, demos)
 
 ---
 
