@@ -64,17 +64,20 @@ Exit the application.
 The CNN model trained on the MNIST dataset achieves **~99% accuracy** on the test set.  
 Key evaluation outputs include:
 Confusion Matrix
+
 <img width="797" height="701" alt="image" src="https://github.com/user-attachments/assets/c23e69d8-d4cb-44d1-891b-a48e144f3c28" />
 
 Training & Validation Accuracy/Loss
+
 <img width="671" height="682" alt="image" src="https://github.com/user-attachments/assets/cf4d3ae8-113b-4891-9f0b-b9f20675f02a" />
 
 Demo (Canvas Mode)
+
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/4096042d-d91e-4b72-9811-63e9c0d8f2d5" />
 
 Demo (Webcam Mode)
-<img width="1839" height="1544" alt="image" src="https://github.com/user-attachments/assets/ca143b3a-0b42-42cb-830c-097b024357fa" />
 
+<img width="1238" height="1576" alt="image" src="https://github.com/user-attachments/assets/48d3f33f-f2d4-4881-9779-1013c385decc" />
 
 ---
 
